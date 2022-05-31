@@ -6,3 +6,5 @@ git clone *link*
 
 Link to a repository is located in the tab Code:
 ![linkrep](gitlink.JPG)
+
+some changes
